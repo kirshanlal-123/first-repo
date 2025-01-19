@@ -1,2 +1,4 @@
-# first-repo
-this is my first git repository
+# first-repository
+This is my first git repository.
+anthor krishan lal
+
